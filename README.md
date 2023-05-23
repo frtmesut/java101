@@ -1,6 +1,6 @@
 # java101
 
-ortalamaHesaplama
+*ortalamaHesaplama*
 
 Matematik, Geometri, Biyoloji, Fizik, Kimya, Edebiyat ve Tarih derslerinin notlarının ortalamasına göre 60 üstü alanların geçtiğini altında alanların kaldığını hesaplayan hesap makinesi.
 
