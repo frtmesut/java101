@@ -81,3 +81,7 @@ Bu projede girilen üç sayısı büyükten küçüğe doğru sıralayan program
 Bu projede km, yaş ve gidiş-dönüş bilgisine göre indirimli bilet fiyatı hesaplayan program yazılmıştır.
 
 
+# cinZodyagi
+Bu projede kullanıcının girdiği yıla göre Çin takvimindeki burcunu gösteren bir program yazılmıştır.
+
+
