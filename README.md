@@ -61,6 +61,9 @@ Bu projede girilen sayıya kadar olan sayılardan 3'e ve 4'e tam bölünenlerin 
 # saydirmaTopla
 Bu projede kullanıcı tek bir sayı girene kadar kullanıcının girdiği 4'ün katları olan sayıların toplamını ekrana yazdıran bir program yazılmıştır.
 
+# usluSayi
+Bu projede kullanıcının girdiği sayıya kadar 4'ün ve 5'in kuvvetlerinin gösterildiği bir program yazılmıştır.
+
 
 
 
