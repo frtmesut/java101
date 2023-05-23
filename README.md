@@ -73,4 +73,7 @@ Bu projede derslerin ortalamalarına göre 55 üstü alan öğrencilerin geçip 
 Bu projede girinlen hava sıcaklığına göre yapılacak etkinlikleri göstren bir program yazılmıştır.
 
 
+# sayiSiralma
+Bu projede girilen üç sayısı büyükten küçüğe doğru sıralayan program yazılmıştır.
+
 
