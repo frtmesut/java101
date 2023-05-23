@@ -58,6 +58,9 @@ Bu projede artık yıl hesaplama programı yazılmıştır.
 # saydirma
 Bu projede girilen sayıya kadar olan sayılardan 3'e ve 4'e tam bölünenlerin ortalamasını gösteren bir porgram yazılmıştır.
 
+# saydirmaTopla
+Bu projede kullanıcı tek bir sayı girene kadar kullanıcının girdiği 4'ün katları olan sayıların toplamını ekrana yazdıran bir program yazılmıştır.
+
 
 
 
