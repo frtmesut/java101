@@ -69,3 +69,8 @@ Bu projede derslerin ortalamalarına göre 55 üstü alan öğrencilerin geçip 
 
 
 
+# weatherEvent
+Bu projede girinlen hava sıcaklığına göre yapılacak etkinlikleri göstren bir program yazılmıştır.
+
+
+
