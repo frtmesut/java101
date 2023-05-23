@@ -77,3 +77,7 @@ Bu projede girinlen hava sıcaklığına göre yapılacak etkinlikleri göstren 
 Bu projede girilen üç sayısı büyükten küçüğe doğru sıralayan program yazılmıştır.
 
 
+# ucakBileti
+Bu projede km, yaş ve gidiş-dönüş bilgisine göre indirimli bilet fiyatı hesaplayan program yazılmıştır.
+
+
