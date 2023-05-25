@@ -67,6 +67,7 @@ Bu projede kullanıcının girdiği sayıya kadar 4'ün ve 5'in kuvvetlerinin g�
 # kombinasyon
 Bu projede n elemanlı bir kümenin r elemanlı kaç farklı kombinasyonunun hesaplandığı bir program yazılmıştır.
 
-
+# usluSayi1
+Bu projede for döngüsü ile üslü sayı hesaplayan bir program yazılmıştır.
 
 
