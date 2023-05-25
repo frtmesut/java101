@@ -64,6 +64,9 @@ Bu projede kullanıcı tek bir sayı girene kadar kullanıcının girdiği 4'ün
 # usluSayi
 Bu projede kullanıcının girdiği sayıya kadar 4'ün ve 5'in kuvvetlerinin gösterildiği bir program yazılmıştır.
 
+# kombinasyon
+Bu projede n elemanlı bir kümenin r elemanlı kaç farklı kombinasyonunun hesaplandığı bir program yazılmıştır.
+
 
 
 
