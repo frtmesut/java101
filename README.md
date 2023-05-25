@@ -73,7 +73,8 @@ Bu projede for döngüsü ile üslü sayı hesaplayan bir program yazılmıştı
 # basamakTop
 Bu projede kullanıcının girdiği sayının basamaklarını toplayan bir program yazılmıştır.
 
-
+# harmonikSeri
+Bu projede girilen sayının harmonik serisini gösteren bir program yazılmıştır.
 
 
 
