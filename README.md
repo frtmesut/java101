@@ -70,4 +70,15 @@ Bu projede n elemanlı bir kümenin r elemanlı kaç farklı kombinasyonunun hes
 # usluSayi1
 Bu projede for döngüsü ile üslü sayı hesaplayan bir program yazılmıştır.
 
+# basamakTop
+Bu projede kullanıcının girdiği sayının basamaklarını toplayan bir program yazılmıştır.
+
+
+
+
+
+
+
+
+
 
