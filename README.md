@@ -76,6 +76,9 @@ Bu projede kullanıcının girdiği sayının basamaklarını toplayan bir progr
 # harmonikSeri
 Bu projede girilen sayının harmonik serisini gösteren bir program yazılmıştır.
 
+# elmas
+Bu projede kullanıcının girdiği adet miktarı satır ile * işaretli elmas (rhombus) şekli oluşturan program yazılmıştır.
+
 
 
 
