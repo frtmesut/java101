@@ -88,4 +88,5 @@ Bu projede kullanıcının girdiği iki sayının EBOB ve EKOK değerini hesapla
 # MinMaxSay
 Bu projede kullanıcıdan n adet sayı istenmiştir. İstenilen adet kadar sayı girdikten sonra girilen sayılardan hangisinin en büyük ve en küçük olduğunu bulan program yazılmıştır.
 
-
+# MukemmelSayi
+Bu projede kullanıcının girdiği sayının mükemmel bir sayı olup olmadığını hesaplayan program yazılmıştır.
