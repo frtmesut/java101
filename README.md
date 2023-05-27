@@ -85,6 +85,7 @@ Bu projede kullanıcının atm işlemlerini yapabildiği program yazılmıştır
 # EbobEkok
 Bu projede kullanıcının girdiği iki sayının EBOB ve EKOK değerini hesaplayan bir program yazılmıştır.
 
-
+# MinMaxSay
+Bu projede kullanıcıdan n adet sayı istenmiştir. İstenilen adet kadar sayı girdikten sonra girilen sayılardan hangisinin en büyük ve en küçük olduğunu bulan program yazılmıştır.
 
 
