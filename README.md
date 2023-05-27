@@ -79,7 +79,8 @@ Bu projede girilen sayının harmonik serisini gösteren bir program yazılmış
 # elmas
 Bu projede kullanıcının girdiği adet miktarı satır ile * işaretli elmas (rhombus) şekli oluşturan program yazılmıştır.
 
-
+# Atm
+Bu projede kullanıcının atm işlemlerini yapabildiği program yazılmıştır.
 
 
 
