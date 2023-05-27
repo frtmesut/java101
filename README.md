@@ -82,7 +82,8 @@ Bu projede kullanıcının girdiği adet miktarı satır ile * işaretli elmas (
 # Atm
 Bu projede kullanıcının atm işlemlerini yapabildiği program yazılmıştır.
 
-
+# EbobEkok
+Bu projede kullanıcının girdiği iki sayının EBOB ve EKOK değerini hesaplayan bir program yazılmıştır.
 
 
 
