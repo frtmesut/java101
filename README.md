@@ -96,3 +96,6 @@ Bu projede kullanıcının girdiği adet miktarı satır ile ters üçgen şekli
 
 # AsalSay
 Bu projede 1 - 100 arası asal sayıları bulan bir program yazılmıştır.
+
+$ Fibonacci
+Bu projede kullanıcıdan alınan n elemanlı fibonacci serisi yazdıran bir program yazılmıştır.
