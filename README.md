@@ -90,3 +90,9 @@ Bu projede kullanıcıdan n adet sayı istenmiştir. İstenilen adet kadar sayı
 
 # MukemmelSayi
 Bu projede kullanıcının girdiği sayının mükemmel bir sayı olup olmadığını hesaplayan program yazılmıştır.
+
+# TersUcgen
+Bu projede kullanıcının girdiği adet miktarı satır ile ters üçgen şekli oluşturan bir program yazılmıştır.
+
+# AsalSay
+Bu projede 1 - 100 arası asal sayıları bulan bir program yazılmıştır.
