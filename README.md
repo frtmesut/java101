@@ -99,3 +99,6 @@ Bu projede 1 - 100 arası asal sayıları bulan bir program yazılmıştır.
 
 $ Fibonacci
 Bu projede kullanıcıdan alınan n elemanlı fibonacci serisi yazdıran bir program yazılmıştır.
+
+# Palindrom
+Bu projede kullanıcının girdiği sayının palindrom bir sayı olup olmadığını gösteren bir program yazılmıştır.
