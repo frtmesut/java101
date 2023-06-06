@@ -102,3 +102,6 @@ Bu projede kullanıcıdan alınan n elemanlı fibonacci serisi yazdıran bir pro
 
 # Palindrom
 Bu projede kullanıcının girdiği sayının palindrom bir sayı olup olmadığını gösteren bir program yazılmıştır.
+
+# HesapMak
+Bu projede hesap makinesi programı yazılmışr.
