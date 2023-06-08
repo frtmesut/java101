@@ -108,3 +108,6 @@ Bu projede hesap makinesi programı yazılmışr.
 
 # RecursiveUsAlma
 Bu projede recursive yöntemi ile üs alma işlemi yapan bir program yazılmıştır.
+
+# RecursiveAsal
+Bu projede kullanıcının girdiği sayının asal sayı olup olmadığını hesaplayan bir program yazılmıştır.
