@@ -111,3 +111,6 @@ Bu projede recursive yöntemi ile üs alma işlemi yapan bir program yazılmış
 
 # RecursiveAsal
 Bu projede kullanıcının girdiği sayının asal sayı olup olmadığını hesaplayan bir program yazılmıştır.
+
+# DeseneGoreMetod
+Bu projede girilen sayı 0 veya negatif olduğu yere kadar girilen sayıdan 5 rakamını çıkaran bir program yazılmıştır.
