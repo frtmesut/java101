@@ -114,3 +114,6 @@ Bu projede kullanıcının girdiği sayının asal sayı olup olmadığını hes
 
 # DeseneGoreMetod
 Bu projede girilen sayı 0 veya negatif olduğu yere kadar girilen sayıdan 5 rakamını çıkaran bir program yazılmıştır.
+
+# DiziHarmonik
+Bu projede dizideki sayıların harmonik serisini hesaplayan bir program yazılmıştır.
