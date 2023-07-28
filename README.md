@@ -117,3 +117,6 @@ Bu projede girilen sayı 0 veya negatif olduğu yere kadar girilen sayıdan 5 ra
 
 # DiziHarmonik
 Bu projede dizideki sayıların harmonik serisini hesaplayan bir program yazılmıştır.
+
+# DiziMinMax
+Bu projede girilen yeni değer dizine ekleniyor ve girilen değer küçük en yakın sayıyı ve en büyük en yakın sayıyı bulan program yazılmıştır.
