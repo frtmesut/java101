@@ -120,3 +120,6 @@ Bu projede dizideki sayıların harmonik serisini hesaplayan bir program yazılm
 
 # DiziMinMax
 Bu projede girilen yeni değer dizine ekleniyor ve girilen değer küçük en yakın sayıyı ve en büyük en yakın sayıyı bulan program yazılmıştır.
+
+# DizinBHarfi
+Bu projede multiarray kullaılarak "*" ile B harfi yazılmıştır.
