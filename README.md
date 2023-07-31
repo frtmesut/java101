@@ -135,3 +135,7 @@ Bu projede dizideki elemanların kaç kez tekrar edildiğini yani frekansların�
 
 # MatisTanspose
 Bu projede çok boyutlu diziler ile oluşturulmuş matrisin transpozunu bulan program yazılmıştır.
+
+# SayiTahminOyunu
+Bu projede java dilinde programın 0-100 arasında rastgele seçtiği bir sayıyı kullanıcının tahmin etmesini istediğimiz bir oyun yazılmıştır.
+
