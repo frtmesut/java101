@@ -129,3 +129,6 @@ Bu projede bir sayı dizisindeki tekrar eden çift sayıları belirten bir progr
 
 # DizinElemanSiralama
 Bu projede kullanıcıdan dizinin eleman boyutu ve elemanlar istenerek diizindeki elemanların sıralı bir şekilde sıralanmasını gösteren bir program yazılmıştır.
+
+# DizinElemanSiralama
+Bu projede dizideki elemanların kaç kez tekrar edildiğini yani frekanslarını bulan program yazılmıştır.
