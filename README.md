@@ -132,3 +132,6 @@ Bu projede kullanıcıdan dizinin eleman boyutu ve elemanlar istenerek diizindek
 
 # DizinElemanSiralama
 Bu projede dizideki elemanların kaç kez tekrar edildiğini yani frekanslarını bulan program yazılmıştır.
+
+# MatisTanspose
+Bu projede çok boyutlu diziler ile oluşturulmuş matrisin transpozunu bulan program yazılmıştır.
