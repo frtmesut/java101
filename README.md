@@ -123,3 +123,6 @@ Bu projede girilen yeni değer dizine ekleniyor ve girilen değer küçük en ya
 
 # DizinBHarfi
 Bu projede multiarray kullaılarak "*" ile B harfi yazılmıştır.
+
+# DizinSiraliCift
+Bu projede bir sayı dizisindeki tekrar eden çift sayıları belirten bir program yazılmıştır.
