@@ -126,3 +126,6 @@ Bu projede multiarray kullaılarak "*" ile B harfi yazılmıştır.
 
 # DizinSiraliCift
 Bu projede bir sayı dizisindeki tekrar eden çift sayıları belirten bir program yazılmıştır.
+
+# DizinElemanSiralama
+Bu projede kullanıcıdan dizinin eleman boyutu ve elemanlar istenerek diizindeki elemanların sıralı bir şekilde sıralanmasını gösteren bir program yazılmıştır.
