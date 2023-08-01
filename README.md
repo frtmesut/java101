@@ -139,3 +139,5 @@ Bu projede çok boyutlu diziler ile oluşturulmuş matrisin transpozunu bulan pr
 # SayiTahminOyunu
 Bu projede java dilinde programın 0-100 arasında rastgele seçtiği bir sayıyı kullanıcının tahmin etmesini istediğimiz bir oyun yazılmıştır.
 
+# PalindromKelime
+Bu projede java dilinde yazdığımız kelimenin palindrom bir kelime olup olmadığını kontrol eden bir program yazılmıştır.
